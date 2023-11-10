@@ -1,7 +1,12 @@
 HEECHAN CHUNG 👋
 * Interested in Deep Learning & Machine Learning and BackEnd
 * Hope to be a Data Scientist or BackEnd Developer
-* 3 languages avaliable: Korean, English and littel bit of Chinese. 
+* 3 languages avaliable: Korean, English and littel bit of Chinese.
+
+Career🔭
+* Gachon University Department of Software Engineering(2019 ~)
+* Research Assistant as Undergraduate student in Deep Learning Lab(2022~)
+* Worked at PeopleSpace in CA
 <!--
 **anselmo228/anselmo228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
