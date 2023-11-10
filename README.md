@@ -1,5 +1,7 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+HEECHAN CHUNG 👋
+* Interested in Deep Learning & Machine Learning and BackEnd
+* Hope to be a Data Scientist or BackEnd Developer
+* 3 languages avaliable: Korean, English and littel bit of Chinese. 
 <!--
 **anselmo228/anselmo228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
