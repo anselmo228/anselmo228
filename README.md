@@ -8,7 +8,7 @@
 * Gachon University Department of Software Engineering(2019.03 ~)
 * Republic Of Korea Army, 3Transportation Education regiment(2020.08 ~ 2022.02)
 * Research Assistant as Undergraduate student in Deep Learning Lab(2023.03 ~ 2024.03)
-* Thesis(paper): Clustering Algorithm(Working), Novel Broadband THz Modulator(SCIE)
+* Thesis(paper): Clustering Algorithm(Working on), Novel Broadband THz Modulator(SCIE)
 * Worked at PeopleSpace in CA(2024)
 <!--
 **anselmo228/anselmo228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
