@@ -1,10 +1,10 @@
-HEECHAN CHUNG 👋
+##HEECHAN CHUNG 👋
 * Borned in 2000.02.28 South Korea, Daegu
 * Interested in Deep Learning & Machine Learning and BackEnd
 * Hope to be a Data Scientist or BackEnd Developer
 * 3 languages avaliable: Korean, English and littel bit of Chinese.
 
-Career🔭
+##Career🔭
 * Gachon University Department of Software Engineering(2019.03 ~)
 * Republic Of Korea Army, 3Transportation Education regiment(2020.08 ~ 2022.02)
 * Research Assistant as Undergraduate student in Deep Learning Lab(2023.03 ~ 2024.03)
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📞 Contact 📞
+##📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:anselmo228@naver.com">
         <img src="https://img.shields.io/badge/
