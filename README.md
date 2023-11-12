@@ -15,7 +15,7 @@
 * Love to travel abroad
 * Love to meet people from different country, different culture
 * Love to hang out with people
-* Huge Football Fan
+
 <!--
 **anselmo228/anselmo228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
