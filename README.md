@@ -2,7 +2,7 @@
 * Borned in 2000.02.28 South Korea, Daegu
 * Interested in Deep Learning & Machine Learning and BackEnd
 * Hope to be a Data Scientist or BackEnd Developer
-* 3 languages avaliable: Korean, English and littel bit of Chinese.
+* 3 languages avaliable: Fluent in Korean, English and little bit of Chinese.
 
 ## Career🔭
 * Gachon University Department of Software Engineering(2019.03 ~)
