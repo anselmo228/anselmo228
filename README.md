@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📞 Contact 📞
+📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:anselmo228@naver.com">
         <img src="https://img.shields.io/badge/
