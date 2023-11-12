@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔨 Once I've used 🔨
+## 🔨 Tech Stats 🔨
 <div align="left">
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
