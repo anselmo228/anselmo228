@@ -55,7 +55,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/scipy-7952B3?style=flat-square&logo=scipyp&logoColor=white">
     </div>
     <!-- Others -->
-    <p><strong>Others</strong></p>
+    <p><strong>Others/Front</strong></p>
     <div>
         <img src="https://img.shields.io/badge/webgl-7F52FF?style=flat-square&logo=webgl&logoColor=white">
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
