@@ -9,7 +9,8 @@
 * Republic Of Korea Army, 3Transportation Education regiment(2020.08 ~ 2022.02)
 * Research Assistant as Undergraduated student in Deep Learning Lab(2023.03 ~ 2024.03)
 * Thesis(paper): Clustering Algorithm(Working on), Novel Broadband THz Modulator(SCIE)
-* Worked at PeopleSpace in CA(2024)
+* Internship Program at PeopleSpace in CA IRVINE(2024)
+* 카카오엔터프라이즈 4기 수료(2024.03 ~ 2024.08)
 
 ## About Me😄
 * Love to travel abroad
@@ -84,3 +85,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anselmo228&show_icons=true&theme=radical)
+
+## 🔭 이력서 🔭
+https://forest-fear-c7b.notion.site/cd1327e332db4949b30f238c62076ee8
