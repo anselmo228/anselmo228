@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 </div><br>
 
 ## 🔭 Github 🔭
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselmo228&langs_count=10&layout=compact&theme=dark)](https://github.com/anselmo228/anselmo228)﻿﻿
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anselmo228)
-
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselmo228&langs_count=10&layout=compact&theme=dark)](https://github.com/anselmo228/anselmo228)
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anselmo228)](https://github.com/anselmo228/github-readme-stats)
 ## 🔭 이력서 🔭
 https://forest-fear-c7b.notion.site/cd1327e332db4949b30f238c62076ee8
