@@ -11,6 +11,7 @@
 * Thesis(paper): Clustering Algorithm(Working on), Novel Broadband THz Modulator(SCIE)
 * Internship Program at PeopleSpace in CA IRVINE(2024)
 * 카카오엔터프라이즈 4기 수료(2024.03 ~ 2024.08)
+* (주)한국포장기술 MLOPS Engieers(2024.09 ~ 2025.01)
 
 ## About Me😄
 * Love to travel abroad
@@ -82,7 +83,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Github 🔭
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselmo228&langs_count=10&layout=compact&theme=dark)](https://github.com/anselmo228/anselmo228)﻿﻿
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anselmo228)
 
 ## 🔭 이력서 🔭
 https://forest-fear-c7b.notion.site/cd1327e332db4949b30f238c62076ee8
