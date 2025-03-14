@@ -53,16 +53,25 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/amazons3-FFCA28?style=for-the-badge&logo=amazons3&logoColor=white">
     </div>
     <!-- Server -->
-    <p><strong>Server</strong></p>
+    <p><strong>Cloud Architecture</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Flask tomcat-F8DC75?style=for-the-badge&logo=Flask&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img src ="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+        <img src ="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch">
+        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
     </div>
     <!-- Frontend -->
-    <p><strong>Deep Learning</strong></p>
+    <p><strong>ML</strong></p>
     <div>
         <img src="https://img.shields.io/badge/scikitlearn-E34F26?style=flat-square&logo=scikitlearn&logoColor=white"> 
         <img src="https://img.shields.io/badge/scipy-7952B3?style=flat-square&logo=scipyp&logoColor=white">
+        <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     </div>
     <!-- Others -->
     <p><strong>Others(Front)</strong></p>
