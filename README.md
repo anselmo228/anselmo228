@@ -1,7 +1,7 @@
 ## HEECHAN CHUNG 👋
 * Borned in 2000.02.28 South Korea, Daegu
-* Interested in Deep Learning & Machine Learning and BackEnd
-* Hope to be a Data Scientist or BackEnd Developer
+* Interested in BackEnd and Cloud Architecture
+* Hope to be a Cloud Architecture and BackEnd Developer
 * 3 languages avaliable: Fluent in Korean, English and little bit of Chinese.
 
 ## Career🔭
@@ -9,14 +9,14 @@
 * Republic Of Korea Army, 3Transportation Education regiment(2020.08 ~ 2022.02)
 * Research Assistant as Undergraduated student in Deep Learning Lab(2023.03 ~ 2024.03)
 * Thesis(paper): Clustering Algorithm(Working on), Novel Broadband THz Modulator(SCIE)
-* Internship Program at PeopleSpace in CA IRVINE(2024)
+* Internship Program at Irvine TechHub in CA IRVINE(2024)
 * 카카오엔터프라이즈 4기 수료(2024.03 ~ 2024.08)
 * (주)한국포장기술 MLOPS Engieers(2024.09 ~ 2025.01)
 
 ## About Me😄
 * Love to travel abroad
 * Love to meet people from different country, different culture
-* Love to hang out with people
+* Good at CommunitCation
 
 <!--
 **anselmo228/anselmo228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +41,8 @@ Here are some ideas to get you started:
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/fastapi-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white"> 
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
